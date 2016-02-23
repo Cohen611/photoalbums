@@ -1,0 +1,27 @@
+.wrapper{
+  width: 1500px;
+  margin:0 auto;
+}
+
+.cover-box img{
+width:400px;
+height: auto;
+float:left;
+padding: 5px 5px 5px 5px;
+}
+.cover-box{
+width:100%;
+height: auto;
+}
+h1{
+  text-align: center;
+  background-color: gray;
+  width:1200px;
+
+}
+#albumContainer1{
+display: inline;
+}
+.album img{
+  width:400px;
+}
